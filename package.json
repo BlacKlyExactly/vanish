@@ -1,0 +1,19 @@
+{
+  "name": "vanish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.ts",
+    "start": "npx ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "uuidv4": "^6.2.13",
+    "zustand": "^4.5.2"
+  }
+}
